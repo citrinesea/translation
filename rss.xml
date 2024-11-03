@@ -15,8 +15,33 @@
     <atom:link href="https://citrinesea.github.io/translation/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>Translator focused around RYUSEITAI and AKATSUKI</description>
-    <pubDate>Fri, 01 Nov 2024 23:15:28 GMT</pubDate>
+    <pubDate>Sat, 03 Nov 2035 05:43:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Masterlist Redirect</title>
+      <link>https://citrinesea.github.io/translation/Redirect/</link>
+      <guid>https://citrinesea.github.io/translation/Redirect/</guid>
+      <pubDate>Sat, 03 Nov 2035 05:43:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
+&lt;div class=msr-unit character=&quot;Ibuki&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/Redirect/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hundred (Chapter 8-10)</title>
@@ -503,24 +528,6 @@
       
       
       <comments>https://citrinesea.github.io/translation/scroll_of_the_elements/signs_of_the_coming_storm/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Scroll of the Clouds</title>
-      <link>https://citrinesea.github.io/translation/scroll_of_the_elements/scroll_of_the_clouds/</link>
-      <guid>https://citrinesea.github.io/translation/scroll_of_the_elements/scroll_of_the_clouds/</guid>
-      <pubDate>Thu, 06 Jun 2024 13:07:34 GMT</pubDate>
-      
-      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../../css/translation.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../../css/esexp.css&quot;&gt;</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/scroll_of_the_elements/scroll_of_the_clouds/#disqus_thread</comments>
       
     </item>
     
