@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>citrinesea</title>
+    <link>https://citrinesea.github.io/translation/</link>
+    
+    <image>
+      <url>https://citrinesea.github.io/translation/icon.png</url>
+      <title>citrinesea</title>
+      <link>https://citrinesea.github.io/translation/</link>
+    </image>
+    
+    <atom:link href="https://citrinesea.github.io/translation/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Translator focused around RYUSEITAI and AKATSUKI</description>
+    <pubDate>Sat, 03 Nov 2035 05:43:09 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Masterlist Redirect</title>
+      <link>https://citrinesea.github.io/translation/Redirect/</link>
+      <guid>https://citrinesea.github.io/translation/Redirect/</guid>
+      <pubDate>Sat, 03 Nov 2035 05:43:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
+&lt;div class=msr-unit character=&quot;Ibuki&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/Redirect/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Brightest Stars Minitalks</title>
+      <link>https://citrinesea.github.io/translation/bright_me_up_minitalks/</link>
+      <guid>https://citrinesea.github.io/translation/bright_me_up_minitalks/</guid>
+      <pubDate>Tue, 20 May 2025 14:24:55 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;  
+                    &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;                                       
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Point of View
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Anzu
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   D.L.F.S. Course
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;Bright Me Up! Minitalks
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
+  &lt;summary&gt;
+    Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+  &lt;/summary&gt;
+  &lt;p&gt;&lt;/p&gt;
+  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan). The word 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style) comes from 和. During the Meiji Restoration, 和 was central to Japan’s efforts to unify and assimilate new territories under a shared cultural identity. On top of his membership, Ibuki&#39;s active pursuit of 本当の和風 (true Japanese-style) being the reason he pursues AKATSUKI is inappropriate, bearing this in mind.&lt;/p&gt;
+  &lt;p&gt;
+     Additionally, the Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II. This in mind, having Ibuki join the self-proclaimed &quot;war unit&quot; is also inappropriate.&lt;/p&gt; 
+  &lt;p&gt;A full-length content warning post will expand on these in more detail upon the release of &lt;b&gt;The Legend of KAGETSU&lt;/b&gt; translation.
+  &lt;/p&gt;
+&lt;/details&gt;&lt;/div&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/bright_me_up_minitalks/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Pon de Beach Commi</title>
+      <link>https://citrinesea.github.io/translation/pon_de_beach/</link>
+      <guid>https://citrinesea.github.io/translation/pon_de_beach/</guid>
+      <pubDate>Fri, 16 May 2025 22:54:06 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/18trip.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+					Hibiki
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Writer
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   Associated Card
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;Pon de Beach
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;img src=&quot;/translation/img/idolmas/idol/pondebeach.jpg&quot; class=&quot;&quot;&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/pon_de_beach/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Beach for You</title>
+      <link>https://citrinesea.github.io/translation/beach_day/</link>
+      <guid>https://citrinesea.github.io/translation/beach_day/</guid>
+      <pubDate>Fri, 16 May 2025 01:10:32 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/18trip.css&quot;&gt;
+&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor:#008091;--storyColor-rgb:55,120,111;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;&quot;&gt;
+    &lt;div class=&quot;grid-wrapper&quot;&gt;
+        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;../img/idolmas/mainsto/hibikiunbloomedcg.jpg&#39;)&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;story-box&quot;&gt;
+            &lt;div class=&quot;story-cover&quot;&gt;
+                &lt;div&gt;&lt;img src=&quot;../img/idolmas/mainsto/hibikicardbframe.jpg&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;title-area&quot;&gt;
+                &lt;div class=&quot;title-area__title&quot;&gt;Beach For You&lt;/div&gt;
+                &lt;div class=&quot;title-area__start&quot;&gt;
+                    &lt;a href=&quot;#Hanafuda-1&quot;&gt;Start Reading&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-area&quot;&gt;
+                &lt;div class=&quot;synopsis&quot;&gt;
+                    While playing hanafuda with Souma, the transfer student realizes the deck Kuro entrusted her with is missing a card. However, that card has something to do with AKATSUKI’s &lt;span style=&quot;display:inline-block&quot;&gt;past…&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;info&quot;&gt;
+                    &lt;div class=&quot;info-item season&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Season
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item chapters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Chapters
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            4
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item writer&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Writer
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item characters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Characters
+                        &lt;/div&gt;
+                        Hibiki, Arisa, Erena, Yukiho, Noriko
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item tl&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Translators
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item pr&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Proofreaders
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;extra-area&quot;&gt;
+                    &lt;div class=&quot;tab-header&quot;&gt;
+                        &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;tab-content&quot;&gt;
+                        &lt;div class=&quot;tab-item&quot;&gt;
+                            &lt;div class=&quot;label&quot;&gt;
+                                Main Story
+                            &lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;
+                                Chapter 91
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;chapter-area&quot;&gt;
+                &lt;div class=&quot;chapters&quot;&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            &lt;span&gt;Hanafuda&lt;/span&gt;
+                            &lt;a href=#Hanafuda-1&gt;1&lt;/a&gt;
+                            &lt;a href=#Hanafuda-2&gt;2&lt;/a&gt;
+                            &lt;a href=#Hanafuda-3&gt;3&lt;/a&gt;
+                            &lt;a href=#Hanafuda-4&gt;4&lt;/a&gt;
+                            &lt;a href=#Hanafuda-5&gt;5&lt;/a&gt;
+                            &lt;a href=#Hanafuda-6&gt;6&lt;/a&gt;
+                            &lt;a href=#Hanafuda-7&gt;7&lt;/a&gt;
+                            &lt;a href=#Hanafuda-8&gt;8&lt;/a&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
+$(document).ready(function() {
+    $(&#39;.preview-wrapper&#39;).remove();
+&lt;/script&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/beach_day/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Getcha Head in the Game</title>
+      <link>https://citrinesea.github.io/translation/getcha_head_in_the_game/</link>
+      <guid>https://citrinesea.github.io/translation/getcha_head_in_the_game/</guid>
+      <pubDate>Sat, 10 May 2025 22:26:33 GMT</pubDate>
+      
+      <description>(!) Izumi Idol Story, feat. Keito, Chiaki, and Eichi</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/getcha_head_in_the_game/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Keito Idol Story 2</title>
+      <link>https://citrinesea.github.io/translation/keito_idolstory_2/</link>
+      <guid>https://citrinesea.github.io/translation/keito_idolstory_2/</guid>
+      <pubDate>Fri, 09 May 2025 03:46:27 GMT</pubDate>
+      
+      <description>(!!) Keito Idol Story, feat. Kuro and Souma</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/keito_idolstory_2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>新生 (2025) D.L.F.S. | Shinsei AKATSUKI</title>
+      <link>https://citrinesea.github.io/translation/shinsei_akatsuki_minitalks/</link>
+      <guid>https://citrinesea.github.io/translation/shinsei_akatsuki_minitalks/</guid>
+      <pubDate>Sat, 03 May 2025 22:30:16 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;  
+                    &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;                                       
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Point of View
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Anzu
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   D.L.F.S
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    新生 AKATSUKI
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
+  &lt;summary&gt;
+    Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+  &lt;/summary&gt;
+  &lt;p&gt;&lt;/p&gt;
+  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan). The word 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style) comes from 和. During the Meiji Restoration, 和 was central to Japan’s efforts to unify and assimilate new territories under a shared cultural identity. On top of his membership, Ibuki&#39;s active pursuit of 本当の和風 (true Japanese-style) being the reason he pursues AKATSUKI is inappropriate, bearing this in mind.&lt;/p&gt;
+  &lt;p&gt;
+     Additionally, the Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II. This in mind, having Ibuki join the self-proclaimed &quot;war unit&quot; is also inappropriate.&lt;/p&gt; 
+  &lt;p&gt;A full-length content warning post will expand on these in more detail upon the release of &lt;b&gt;The Legend of KAGETSU&lt;/b&gt; translation.
+  &lt;/p&gt;
+&lt;/details&gt;&lt;/div&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/shinsei_akatsuki_minitalks/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Appeal Talks | Keito, Ibuki</title>
+      <link>https://citrinesea.github.io/translation/megastream_appeals/</link>
+      <guid>https://citrinesea.github.io/translation/megastream_appeals/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:30:16 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;  
+                    &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;                                       
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Point of View
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Anzu
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   D.L.F.S. Course
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;Any (Appeal Talks)
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/megastream_appeals/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>MEGASTREAM Part A Minitalks | Shinsei AKATSUKI</title>
+      <link>https://citrinesea.github.io/translation/megastream_minitalks/</link>
+      <guid>https://citrinesea.github.io/translation/megastream_minitalks/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:30:16 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;  
+                    &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;                                       
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Point of View
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Anzu
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   D.L.F.S. Course
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;MEGASTREAM Part A
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
+  &lt;summary&gt;
+    Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+  &lt;/summary&gt;
+  &lt;p&gt;&lt;/p&gt;
+  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan). The word 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style) comes from 和. During the Meiji Restoration, 和 was central to Japan’s efforts to unify and assimilate new territories under a shared cultural identity. On top of his membership, Ibuki&#39;s active pursuit of 本当の和風 (true Japanese-style) being the reason he pursues AKATSUKI is inappropriate, bearing this in mind.&lt;/p&gt;
+  &lt;p&gt;
+     Additionally, the Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II. This in mind, having Ibuki join the self-proclaimed &quot;war unit&quot; is also inappropriate.&lt;/p&gt; 
+  &lt;p&gt;A full-length content warning post will expand on these in more detail upon the release of &lt;b&gt;The Legend of KAGETSU&lt;/b&gt; translation.
+  &lt;/p&gt;
+&lt;/details&gt;&lt;/div&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/megastream_minitalks/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>MEGASTREAM Tuesday Minitalks | Shinsei AKATSUKI</title>
+      <link>https://citrinesea.github.io/translation/megastream_tuesday/</link>
+      <guid>https://citrinesea.github.io/translation/megastream_tuesday/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:30:16 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;  
+                    &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                    &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;                                       
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Point of View
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Livestream Audience
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   D.L.F.S. Course
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;Tuesday Course
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
+  &lt;summary&gt;
+    Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+  &lt;/summary&gt;
+  &lt;p&gt;&lt;/p&gt;
+  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan). The word 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style) comes from 和. During the Meiji Restoration, 和 was central to Japan’s efforts to unify and assimilate new territories under a shared cultural identity. On top of his membership, Ibuki&#39;s active pursuit of 本当の和風 (true Japanese-style) being the reason he pursues AKATSUKI is inappropriate, bearing this in mind.&lt;/p&gt;
+  &lt;p&gt;
+     Additionally, the Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II. This in mind, having Ibuki join the self-proclaimed &quot;war unit&quot; is also inappropriate.&lt;/p&gt; 
+  &lt;p&gt;A full-length content warning post will expand on these in more detail upon the release of &lt;b&gt;The Legend of KAGETSU&lt;/b&gt; translation.
+  &lt;/p&gt;
+&lt;/details&gt;&lt;/div&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/megastream_tuesday/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Bright Live Up! Campaign</title>
+      <link>https://citrinesea.github.io/translation/bright_me_up_commentary/</link>
+      <guid>https://citrinesea.github.io/translation/bright_me_up_commentary/</guid>
+      <pubDate>Wed, 30 Apr 2025 03:17:23 GMT</pubDate>
+      
+      <description>Bright Live Up! Campaign | 10th Anniversary Campaign that features in-character commentary about unit discography.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/bright_me_up_commentary/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Souma Substory 3</title>
+      <link>https://citrinesea.github.io/translation/souma_substory_3/</link>
+      <guid>https://citrinesea.github.io/translation/souma_substory_3/</guid>
+      <pubDate>Sun, 27 Apr 2025 00:40:16 GMT</pubDate>
+      
+      <description>Souma Kanzaki Substory 3</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/souma_substory_3/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Souma Substory 2</title>
+      <link>https://citrinesea.github.io/translation/souma_substory_2/</link>
+      <guid>https://citrinesea.github.io/translation/souma_substory_2/</guid>
+      <pubDate>Sun, 27 Apr 2025 00:40:14 GMT</pubDate>
+      
+      <description>Souma Kanzaki Substory 2</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/souma_substory_2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Souma Substory 1</title>
+      <link>https://citrinesea.github.io/translation/souma_substory_1/</link>
+      <guid>https://citrinesea.github.io/translation/souma_substory_1/</guid>
+      <pubDate>Sat, 26 Apr 2025 18:35:03 GMT</pubDate>
+      
+      <description>Souma Kanzaki 1</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/souma_substory_1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>at home</title>
+      <link>https://citrinesea.github.io/translation/at_home/</link>
+      <guid>https://citrinesea.github.io/translation/at_home/</guid>
+      <pubDate>Sat, 29 Mar 2025 20:51:32 GMT</pubDate>
+      
+      <description>Partial Translation of the at home Crossscout, feat. Kanata, Arashi, Shinobu, Midori, Tetora</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/at_home/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Kuro Substory 3</title>
+      <link>https://citrinesea.github.io/translation/kuro_substory_3/</link>
+      <guid>https://citrinesea.github.io/translation/kuro_substory_3/</guid>
+      <pubDate>Sat, 29 Mar 2025 18:54:00 GMT</pubDate>
+      
+      <description>Kuro Kiryu Substory 3</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/kuro_substory_3/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>The Princess&#39;s Day Off</title>
+      <link>https://citrinesea.github.io/translation/princess_day_off/</link>
+      <guid>https://citrinesea.github.io/translation/princess_day_off/</guid>
+      <pubDate>Mon, 24 Mar 2025 17:05:39 GMT</pubDate>
+      
+      <description>Fuyume Hanamura Feature Scout 4* Story, feat. Kuro, Madara, and Esu</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/princess_day_off/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Kuro Substory 2</title>
+      <link>https://citrinesea.github.io/translation/kuro_substory_2/</link>
+      <guid>https://citrinesea.github.io/translation/kuro_substory_2/</guid>
+      <pubDate>Tue, 18 Mar 2025 14:45:52 GMT</pubDate>
+      
+      <description>Kuro Kiryu Substory 2</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/kuro_substory_2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Fallen Angels Banquet</title>
+      <link>https://citrinesea.github.io/translation/fallen_angels_banquet/</link>
+      <guid>https://citrinesea.github.io/translation/fallen_angels_banquet/</guid>
+      <pubDate>Tue, 18 Mar 2025 02:18:23 GMT</pubDate>
+      
+      <description>Partial TL</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/fallen_angels_banquet/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Keito Substory 3</title>
+      <link>https://citrinesea.github.io/translation/keito_substory_3/</link>
+      <guid>https://citrinesea.github.io/translation/keito_substory_3/</guid>
+      <pubDate>Sat, 15 Mar 2025 00:40:16 GMT</pubDate>
+      
+      <description>Keito Hasumi Substory 3</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/keito_substory_3/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
