@@ -185,128 +185,6 @@
     </item>
     
     <item>
-      <title>Beach for You</title>
-      <link>https://citrinesea.github.io/translation/beach_day/</link>
-      <guid>https://citrinesea.github.io/translation/beach_day/</guid>
-      <pubDate>Fri, 16 May 2025 01:10:32 GMT</pubDate>
-      
-      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/18trip.css&quot;&gt;
-&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor:#008091;--storyColor-rgb:55,120,111;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;&quot;&gt;
-    &lt;div class=&quot;grid-wrapper&quot;&gt;
-        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;../img/idolmas/mainsto/hibikiunbloomedcg.jpg&#39;)&quot;&gt;&lt;/div&gt;
-        &lt;div class=&quot;story-box&quot;&gt;
-            &lt;div class=&quot;story-cover&quot;&gt;
-                &lt;div&gt;&lt;img src=&quot;../img/idolmas/mainsto/hibikicardbframe.jpg&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;title-area&quot;&gt;
-                &lt;div class=&quot;title-area__title&quot;&gt;Beach For You&lt;/div&gt;
-                &lt;div class=&quot;title-area__start&quot;&gt;
-                    &lt;a href=&quot;#Hanafuda-1&quot;&gt;Start Reading&lt;/a&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;info-area&quot;&gt;
-                &lt;div class=&quot;synopsis&quot;&gt;
-                    While playing hanafuda with Souma, the transfer student realizes the deck Kuro entrusted her with is missing a card. However, that card has something to do with AKATSUKI’s &lt;span style=&quot;display:inline-block&quot;&gt;past…&lt;/span&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;info&quot;&gt;
-                    &lt;div class=&quot;info-item season&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Season
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item chapters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Chapters
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            4
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item writer&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Writer
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item characters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Characters
-                        &lt;/div&gt;
-                        Hibiki, Arisa, Erena, Yukiho, Noriko
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item tl&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Translators
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item pr&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Proofreaders
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;extra-area&quot;&gt;
-                    &lt;div class=&quot;tab-header&quot;&gt;
-                        &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;tab-content&quot;&gt;
-                        &lt;div class=&quot;tab-item&quot;&gt;
-                            &lt;div class=&quot;label&quot;&gt;
-                                Main Story
-                            &lt;/div&gt;
-                            &lt;div class=&quot;value&quot;&gt;
-                                Chapter 91
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;chapter-area&quot;&gt;
-                &lt;div class=&quot;chapters&quot;&gt;
-                    &lt;ul&gt;
-                        &lt;li&gt;
-                            &lt;span&gt;Hanafuda&lt;/span&gt;
-                            &lt;a href=#Hanafuda-1&gt;1&lt;/a&gt;
-                            &lt;a href=#Hanafuda-2&gt;2&lt;/a&gt;
-                            &lt;a href=#Hanafuda-3&gt;3&lt;/a&gt;
-                            &lt;a href=#Hanafuda-4&gt;4&lt;/a&gt;
-                            &lt;a href=#Hanafuda-5&gt;5&lt;/a&gt;
-                            &lt;a href=#Hanafuda-6&gt;6&lt;/a&gt;
-                            &lt;a href=#Hanafuda-7&gt;7&lt;/a&gt;
-                            &lt;a href=#Hanafuda-8&gt;8&lt;/a&gt;
-                        &lt;/li&gt;
-                    &lt;/ul&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
-$(document).ready(function() {
-    $(&#39;.preview-wrapper&#39;).remove();
-&lt;/script&gt;</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/beach_day/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Getcha Head in the Game</title>
       <link>https://citrinesea.github.io/translation/getcha_head_in_the_game/</link>
       <guid>https://citrinesea.github.io/translation/getcha_head_in_the_game/</guid>
@@ -750,6 +628,23 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/fallen_angels_banquet/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Keito Substory 3</title>
+      <link>https://citrinesea.github.io/translation/keito_substory_3/</link>
+      <guid>https://citrinesea.github.io/translation/keito_substory_3/</guid>
+      <pubDate>Sat, 15 Mar 2025 00:40:16 GMT</pubDate>
+      
+      <description>Keito Hasumi Substory 3</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/keito_substory_3/#disqus_thread</comments>
       
     </item>
     
