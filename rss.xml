@@ -61,6 +61,150 @@
     </item>
     
     <item>
+      <title>Submarine | AKATSUKI</title>
+      <link>https://citrinesea.github.io/translation/submarine/</link>
+      <guid>https://citrinesea.github.io/translation/submarine/</guid>
+      <pubDate>Sat, 27 Sep 2025 15:38:51 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
+&lt;style&gt;
+    .preview-wrapper { /* in case jquery doesn&#39;t work */
+        display: none;
+    }
+    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+&lt;/style&gt;
+&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor:#008091;--storyColor-rgb:55,120,111;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;&quot;&gt;
+    &lt;div class=&quot;grid-wrapper&quot;&gt;
+        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;../img/es/eventstory/submarine/soumaunbloomedcg.jpg&#39;)&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;story-box&quot;&gt;
+            &lt;div class=&quot;story-cover&quot;&gt;
+                &lt;div&gt;&lt;img src=&quot;../img/es/eventstory/submarine/soumacardbbframe.jpg&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;title-area&quot;&gt;
+                &lt;div class=&quot;title-area__title&quot;&gt;Submarine&lt;/div&gt;
+                &lt;div class=&quot;title-area__subtitle&quot;&gt;サブマリン&lt;/div&gt;
+                &lt;div class=&quot;title-area__start&quot;&gt;
+                    &lt;a href=&quot;&quot;&gt;Start Reading&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-area&quot;&gt;
+                &lt;div class=&quot;synopsis&quot;&gt;
+                    As AKATSUKI members arrive in Okinawa for the Qualifying Rounds of SS, they find themselves surrounded by local idols. RYUSEITAI, too, is caught up in the chaos. Constrained by the &quot;order&quot; they&#39;ve been given, everyone&#39;s trying hard to find solutions and escape the &lt;span style=&quot;display:inline-block&quot;&gt;predicament.&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;info&quot;&gt;
+                    &lt;div class=&quot;info-item season&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Season
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            Winter
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item chapters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Chapters
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            16
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item writer&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Writer
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            Akira
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item characters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Characters
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Shinobu-Sengoku/&quot; character=&quot;Shinobu&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Souma-Kanzaki/&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Chiaki Morisawa/&quot; character=&quot;Chiaki&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kanata-Shinkai/&quot; character=&quot;Kanata&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Tetora-Nagumo/&quot; character=&quot;Tetora&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Midori-Takamine/&quot; character=&quot;Midori&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Keito-Hasumi/&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kuro-Kiryu/&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item tl&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Translator
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item pr&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Proofreaders
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;extra-area&quot;&gt;
+                    &lt;div class=&quot;tab-header&quot;&gt;
+                        &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;tab-content&quot;&gt;
+                        &lt;div class=&quot;tab-item&quot;&gt;
+                            &lt;div class=&quot;label&quot;&gt;
+                                Event
+                            &lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;
+                                SS／2nd Stage: Submarine
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;tab-item&quot;&gt;
+                            &lt;div class=&quot;label&quot;&gt;
+                                Event Duration
+                            &lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;
+                                 5/31/2021 (15:00 JST)-6/8/2021 (22:00 JST)
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;chapter-area&quot;&gt;
+                &lt;div class=&quot;chapters&quot;&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;
+                            &lt;span&gt;Nirai Kanai&lt;/span&gt;
+                            &lt;a href=#Nirai_1&gt;1&lt;/a&gt;
+                            &lt;a href=#Nirai_2&gt;2&lt;/a&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
+$(document).ready(function() {
+    $(&#39;.preview-wrapper&#39;).remove();
+&lt;/script&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/submarine/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Oniyasha</title>
       <link>https://citrinesea.github.io/translation/oniyasha/</link>
       <guid>https://citrinesea.github.io/translation/oniyasha/</guid>
@@ -328,23 +472,6 @@
     </item>
     
     <item>
-      <title>A Favor Given, A Favor Received</title>
-      <link>https://citrinesea.github.io/translation/favor_given_favor_received/</link>
-      <guid>https://citrinesea.github.io/translation/favor_given_favor_received/</guid>
-      <pubDate>Tue, 24 Jun 2025 15:05:34 GMT</pubDate>
-      
-      <description>Souma Sub Story, feat. Kanata</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/favor_given_favor_received/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Kuro Substory 1</title>
       <link>https://citrinesea.github.io/translation/kuro_substory_1/</link>
       <guid>https://citrinesea.github.io/translation/kuro_substory_1/</guid>
@@ -358,6 +485,23 @@
       
       
       <comments>https://citrinesea.github.io/translation/kuro_substory_1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>A Favor Given, A Favor Received</title>
+      <link>https://citrinesea.github.io/translation/favor_given_favor_received/</link>
+      <guid>https://citrinesea.github.io/translation/favor_given_favor_received/</guid>
+      <pubDate>Tue, 24 Jun 2025 15:05:34 GMT</pubDate>
+      
+      <description>Souma Sub Story, feat. Kanata</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/favor_given_favor_received/#disqus_thread</comments>
       
     </item>
     
@@ -535,23 +679,6 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/beach_day/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Getcha Head in the Game</title>
-      <link>https://citrinesea.github.io/translation/getcha_head_in_the_game/</link>
-      <guid>https://citrinesea.github.io/translation/getcha_head_in_the_game/</guid>
-      <pubDate>Sat, 10 May 2025 22:26:33 GMT</pubDate>
-      
-      <description>(!) Izumi Idol Story, feat. Keito, Chiaki, and Eichi</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/getcha_head_in_the_game/#disqus_thread</comments>
       
     </item>
     
