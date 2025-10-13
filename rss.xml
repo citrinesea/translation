@@ -49,15 +49,50 @@
       <guid>https://citrinesea.github.io/translation/bow/</guid>
       <pubDate>Thu, 09 Oct 2025 20:19:14 GMT</pubDate>
       
-        
-        
-          
-          
       <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
 &lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot;</description>
-          
-        
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xXyqwTM0V8I?si=X_CBdoZtj3OOSFoD&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                &lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Shu&quot; character=&quot;Shu&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Arashi&quot; character=&quot;Arashi&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Mayoi&quot; character=&quot;Mayoi&quot;&gt;&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Event
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    Selection 10 &lt;a href=&quot;https://citrinesea.github.io/translation/its_knot_luv/&quot; target=&quot;_blank
+                    &quot;&gt;(Song Lyrics here)&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                   Proofreading
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</description>
       
       
       
@@ -69,12 +104,12 @@
     </item>
     
     <item>
-      <title>it&#39;s (k)not luv?</title>
+      <title>it&#39;s (k)not lov?</title>
       <link>https://citrinesea.github.io/translation/its_knot_luv/</link>
       <guid>https://citrinesea.github.io/translation/its_knot_luv/</guid>
       <pubDate>Thu, 09 Oct 2025 16:33:20 GMT</pubDate>
       
-      <description>it&#39;s (k)not luv? by B・O・W</description>
+      <description>it&#39;s (k)not lov? by B・O・W</description>
       
       
       
@@ -252,17 +287,91 @@ $(document).ready(function() {
       <guid>https://citrinesea.github.io/translation/akatsuki_fanthanx/</guid>
       <pubDate>Fri, 26 Sep 2025 16:39:57 GMT</pubDate>
       
-        
-        
-          
-          
       <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
 &lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
 &lt;style&gt;
         .tw {
-           </description>
-          
-        
+            max-width: 500px;
+            font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+            margin: auto;
+        }
+
+        .twBody {
+            background-color: #ffffff;
+            border: 1px solid #dddddd;
+            border-radius: 4px;
+            padding: 0 25px 0 25px;
+            position: relative;
+        }
+
+        .header-container {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+
+        .user-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .twAvatar {
+            width: 60px;
+            height: 60px;
+            border-radius: 5px;
+            object-fit: cover;
+            display: block;
+            margin: 0;
+        }
+
+        .user-info {
+            line-height: 1.2;
+        }
+
+        .twUserName {
+            font-size: 19px;
+            font-weight: 700;
+            display: block;
+            margin: 0;
+        }
+
+        .twUserHandle {
+            font-size: 17px;
+            font-weight: 300;
+            color: #697882;
+            display: block;
+            margin: 0;
+        }
+
+        .twText {
+            display: block;
+            font-size: 17px;
+            line-height: 1.4;
+        }
+
+        .twTimeStamp {
+            display: block;
+            font-size: 14px;
+            font-weight: 300;
+            color: #697882;
+            padding: 10px 0;
+            margin-bottom: 10px;
+        }
+
+        .twLink {
+            color: #2C7BB8;
+            text-decoration: none;
+            }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+    &lt;/style&gt;
+&lt;img src=&quot;/translation/img/es/other/fanthanx/fanthanx.jpg&quot; class=&quot;&quot;&gt;
+&lt;p&gt;Assorted releases from the Shinsei AKATSUKI Fan ThanX Festival Campaign (September 30th).&lt;/p&gt;</description>
       
       
       
