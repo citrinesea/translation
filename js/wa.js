@@ -1,0 +1,4 @@
+function openCity(e,t){for(var n,a=document.getElementsByClassName("tabcontent"),c=0;c<a.length;c++)a[c].style.display="none";for(n=document.getElementsByClassName("tablinks"),c=0;c<n.length;c++)n[c].className=n[c].className.replace(" active","");document.getElementById(t).style.display="block",e.currentTarget.className+=" active"}document.addEventListener("DOMContentLoaded",function(){document.getElementById("Majimun").style.display="block",document.querySelector(".tablinks").className+=" active"}),document.addEventListener("DOMContentLoaded",function(){let n=document.querySelectorAll(".circle"),a=document.querySelector(".definition");n.forEach(e=>{e.addEventListener("click",function(){n.forEach(e=>e.classList.remove("active")),this.classList.add("active");var e=this.getAttribute("data-term"),t=this.getAttribute("data-definition");a.innerHTML=`
+                        <div class="term">${e}</div>
+                        <p>${t}</p>
+                    `})})});
