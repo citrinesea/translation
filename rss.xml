@@ -44,6 +44,23 @@
     </item>
     
     <item>
+      <title>Arsène</title>
+      <link>https://citrinesea.github.io/translation/arsene/</link>
+      <guid>https://citrinesea.github.io/translation/arsene/</guid>
+      <pubDate>Mon, 22 Dec 2025 19:47:07 GMT</pubDate>
+      
+      <description>After dozing off, Keito awakens to find himself at the funeral hall of his family’s temple. It seems that the people gathered there are holding his funeral...?</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/arsene/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Wink Killer</title>
       <link>https://citrinesea.github.io/translation/wink_killer/</link>
       <guid>https://citrinesea.github.io/translation/wink_killer/</guid>
@@ -325,23 +342,6 @@
     </item>
     
     <item>
-      <title>BUTTERFLY | Prologue</title>
-      <link>https://citrinesea.github.io/translation/battalion_butterfly/prologue/</link>
-      <guid>https://citrinesea.github.io/translation/battalion_butterfly/prologue/</guid>
-      <pubDate>Wed, 01 Oct 2025 15:15:09 GMT</pubDate>
-      
-      <description>BUTTERFLY Prologue</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/battalion_butterfly/prologue/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>BUTTERFLY | Epilogue</title>
       <link>https://citrinesea.github.io/translation/battalion_butterfly/epilogue/</link>
       <guid>https://citrinesea.github.io/translation/battalion_butterfly/epilogue/</guid>
@@ -355,6 +355,23 @@
       
       
       <comments>https://citrinesea.github.io/translation/battalion_butterfly/epilogue/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>BUTTERFLY | Prologue</title>
+      <link>https://citrinesea.github.io/translation/battalion_butterfly/prologue/</link>
+      <guid>https://citrinesea.github.io/translation/battalion_butterfly/prologue/</guid>
+      <pubDate>Wed, 01 Oct 2025 15:15:09 GMT</pubDate>
+      
+      <description>BUTTERFLY Prologue</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/battalion_butterfly/prologue/#disqus_thread</comments>
       
     </item>
     
@@ -516,107 +533,6 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/submarine/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>FanThanX Festival | Shinsei AKATSUKI</title>
-      <link>https://citrinesea.github.io/translation/akatsuki_fanthanx/</link>
-      <guid>https://citrinesea.github.io/translation/akatsuki_fanthanx/</guid>
-      <pubDate>Fri, 26 Sep 2025 16:39:57 GMT</pubDate>
-      
-      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
-&lt;style&gt;
-        .tw {
-            max-width: 500px;
-            font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
-            margin: auto;
-        }
-
-        .twBody {
-            background-color: #ffffff;
-            border: 1px solid #dddddd;
-            border-radius: 4px;
-            padding: 0 25px 0 25px;
-            position: relative;
-        }
-
-        .header-container {
-            display: flex;
-            align-items: flex-start;
-            justify-content: space-between;
-        }
-
-        .user-container {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .twAvatar {
-            width: 60px;
-            height: 60px;
-            border-radius: 5px;
-            object-fit: cover;
-            display: block;
-            margin: 0;
-        }
-
-        .user-info {
-            line-height: 1.2;
-        }
-
-        .twUserName {
-            font-size: 19px;
-            font-weight: 700;
-            display: block;
-            margin: 0;
-        }
-
-        .twUserHandle {
-            font-size: 17px;
-            font-weight: 300;
-            color: #697882;
-            display: block;
-            margin: 0;
-        }
-
-        .twText {
-            display: block;
-            font-size: 17px;
-            line-height: 1.4;
-        }
-
-        .twTimeStamp {
-            display: block;
-            font-size: 14px;
-            font-weight: 300;
-            color: #697882;
-            padding: 10px 0;
-            margin-bottom: 10px;
-        }
-
-        .twLink {
-            color: #2C7BB8;
-            text-decoration: none;
-            }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-    &lt;/style&gt;
-&lt;img src=&quot;/translation/img/es/other/fanthanx/fanthanx.jpg&quot; class=&quot;&quot;&gt;
-&lt;p&gt;Assorted releases from the Shinsei AKATSUKI Fan ThanX Festival Campaign (September 30th).&lt;/p&gt;</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/akatsuki_fanthanx/#disqus_thread</comments>
       
     </item>
     
