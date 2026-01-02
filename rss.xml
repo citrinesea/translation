@@ -45,8 +45,8 @@
     
     <item>
       <title>Dynamic Diamond</title>
-      <link>https://citrinesea.github.io/translation/wink_killer/</link>
-      <guid>https://citrinesea.github.io/translation/wink_killer/</guid>
+      <link>https://citrinesea.github.io/translation/dynamic_diamond/</link>
+      <guid>https://citrinesea.github.io/translation/dynamic_diamond/</guid>
       <pubDate>Wed, 31 Dec 2025 19:44:59 GMT</pubDate>
       
       <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
@@ -59,49 +59,110 @@
     &lt;p&gt;⦿ &lt;b&gt;Do not use this translation in analysis threads&lt;/b&gt;, story threads, fanworks, quotebots, etc.&lt;/p&gt;
   &lt;/span&gt;
   &lt;p&gt;I would love to get this story properly proofread and posted one day! If you are a translator interested in JP proofreading this story, feel free to DM me at &lt;a href=&quot;https://x.com/citrinesea&quot;&gt;&lt;b&gt;@citrinesea&lt;/b&gt; on X&lt;/a&gt;.&lt;/p&gt;
- &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
-    &lt;div class=&quot;info-area&quot;&gt;
-        &lt;div class=&quot;info&quot;&gt;
-            &lt;div class=&quot;info-item characters&quot;&gt;
-                &lt;div class=&quot;label&quot;&gt;
-                    Characters
-                &lt;/div&gt;
-                &lt;div class=&quot;value&quot;&gt;
-                &lt;a href=&quot;/categories/Enstars/Koga&quot; character=&quot;Koga&quot;&gt;&lt;/a&gt;
-                &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;
-                &lt;a href=&quot;/categories/Enstars/Makoto&quot; character=&quot;Makoto&quot;&gt;&lt;/a&gt;
-                &lt;a href=&quot;/categories/Enstars/Izumi&quot; character=&quot;Izumi&quot;&gt;&lt;/a&gt;
-                &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
-                &lt;a href=&quot;/categories/Enstars/Mayoi&quot; character=&quot;Mayoi&quot;&gt;&lt;/a&gt;
+&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor:#008091;--storyColor-rgb:55,120,111;--storyColor-h: 326.8;--storyColor-s: 23%;--storyColor-l: 47.8%;&quot;&gt;
+    &lt;div class=&quot;grid-wrapper&quot;&gt;
+        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;../img/es/eventstory/dynamic_diamond/sailing_3a.jpg&#39;)&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;story-box&quot;&gt;
+            &lt;div class=&quot;story-cover&quot;&gt;
+                &lt;div&gt;&lt;img src=&quot;../img/es/eventstory/dynamic_diamond/ibukibcardframe.jpg&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;title-area&quot;&gt;
+                &lt;div class=&quot;title-area__title&quot;&gt;Dynamic Diamond&lt;/div&gt;
+                &lt;div class=&quot;title-area__subtitle&quot;&gt;STREAM 4 of Mega Stream&lt;/div&gt;
+                &lt;div class=&quot;title-area__start&quot;&gt;
+                    &lt;a href=&quot;#Diamond1&quot;&gt;Start Reading&lt;/a&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
-            &lt;div class=&quot;info-item one&quot;&gt;
-                &lt;div class=&quot;label&quot;&gt;
-                    Season
+            &lt;div class=&quot;info-area&quot;&gt;
+                &lt;div class=&quot;synopsis&quot;&gt;
+                    The new program Mega Stream has begun, and Trickstar has begun living together. In hopes to be selected for a special program held every weekend, Subaru performs the best he can for the program. However, a conversation he has with Esu causes a &lt;span style=&quot;display:inline-block&quot;&gt;stir...?!&lt;/span&gt;
                 &lt;/div&gt;
-                &lt;div class=&quot;value&quot;&gt;
-                    Summer (ES Y2)
+                &lt;div class=&quot;info&quot;&gt;
+                    &lt;div class=&quot;info-item season&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Season
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            Summer (ES 2nd Year)
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item chapters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Chapters
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            2 (Partial Translation)
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item writer&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Writer
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            H.E. Staff
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item characters&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Characters
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;/categories/Enstars/Koga&quot; character=&quot;Koga&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/categories/Enstars/Makoto&quot; character=&quot;Makoto&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/categories/Enstars/Izumi&quot; character=&quot;Izumi&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+                            &lt;a href=&quot;/categories/Enstars/Mayoi&quot; character=&quot;Mayoi&quot;&gt;&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item tl&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Translator
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                            &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;info-item pr&quot;&gt;
+                        &lt;div class=&quot;label&quot;&gt;
+                            Proofreader
+                        &lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;info-item two&quot;&gt;
-                &lt;div class=&quot;label&quot;&gt;
-                    Translation
-                &lt;/div&gt;
-                &lt;div class=&quot;value&quot;&gt;
-                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;info-item three&quot;&gt;
-                &lt;div class=&quot;label&quot;&gt;
-                   Proofreading
-                &lt;/div&gt;
-                &lt;div class=&quot;value&quot;&gt;
-                    N/A
+                &lt;div class=&quot;extra-area&quot;&gt;
+                    &lt;div class=&quot;tab-header&quot;&gt;
+                        &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;tab-content&quot;&gt;
+                        &lt;div class=&quot;tab-item&quot;&gt;
+                            &lt;div class=&quot;label&quot;&gt;
+                                Event
+                            &lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;
+                                Mega Stream Arc／STREAM 4: Dynamic Diamond
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;div class=&quot;tab-item&quot;&gt;
+                            &lt;div class=&quot;label&quot;&gt;
+                                Event Duration
+                            &lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;
+                                2025/12/31 (15:00 JST) - 2025/5/23 (22:00 JST)
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
+&lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
+$(document).ready(function() {
+    $(&#39;.preview-wrapper&#39;).remove();
+&lt;/script&gt;
+&lt;br&gt;
 &lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
   &lt;summary&gt;
     Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
@@ -118,7 +179,7 @@
       
       
       
-      <comments>https://citrinesea.github.io/translation/wink_killer/#disqus_thread</comments>
+      <comments>https://citrinesea.github.io/translation/dynamic_diamond/#disqus_thread</comments>
       
     </item>
     
@@ -423,23 +484,6 @@
     </item>
     
     <item>
-      <title>BUTTERFLY | The Chrysalis That Dreamed</title>
-      <link>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/</link>
-      <guid>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/</guid>
-      <pubDate>Wed, 01 Oct 2025 15:16:28 GMT</pubDate>
-      
-      <description>The Chrysalis That Dreamed (Chapters 1-5)</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Butterfly</title>
       <link>https://citrinesea.github.io/translation/battalion_butterfly/</link>
       <guid>https://citrinesea.github.io/translation/battalion_butterfly/</guid>
@@ -453,6 +497,23 @@
       
       
       <comments>https://citrinesea.github.io/translation/battalion_butterfly/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>BUTTERFLY | The Chrysalis That Dreamed</title>
+      <link>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/</link>
+      <guid>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/</guid>
+      <pubDate>Wed, 01 Oct 2025 15:16:28 GMT</pubDate>
+      
+      <description>The Chrysalis That Dreamed (Chapters 1-5)</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/battalion_butterfly/the_chrysalis_that_dreamed/#disqus_thread</comments>
       
     </item>
     
