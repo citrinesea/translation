@@ -44,6 +44,23 @@
     </item>
     
     <item>
+      <title>Mashu Kuon | Idol Story 1</title>
+      <link>https://citrinesea.github.io/translation/mashu_idolstory_1/</link>
+      <guid>https://citrinesea.github.io/translation/mashu_idolstory_1/</guid>
+      <pubDate>Fri, 13 Mar 2026 14:03:27 GMT</pubDate>
+      
+      <description>Mashu Kuon Idol Story</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/mashu_idolstory_1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Music Box (Keito Focus)</title>
       <link>https://citrinesea.github.io/translation/music_box/</link>
       <guid>https://citrinesea.github.io/translation/music_box/</guid>
@@ -344,24 +361,23 @@ $(document).ready(function() {
     $(&#39;.preview-wrapper&#39;).remove();
 &lt;/script&gt;
 &lt;br&gt;
-&lt;p&gt;&lt;b&gt;Partial Translation Disclaimer:&lt;/b&gt; This is a partial translation of chapters from Dynamic Diamond main story.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Unproofread Translations&lt;/b&gt; Terms of Service&lt;/p&gt;
-  &lt;span style=&quot;font-size: 15px;&quot;&gt;
-    &lt;p&gt;This story is not JP proofread. &lt;span style=&quot;color: rgb(132, 5, 5);&quot;&gt;&lt;b&gt;Unproofread translations are under much stricter terms of service.&lt;/b&gt;&lt;/span&gt; While these translations are as accurate as I can personally make them, I am not comfortable with and do not permit use of the following:&lt;/p&gt;
-    &lt;p&gt;⦿ &lt;b&gt;Do not take or publicly circulate screenshots&lt;/b&gt; of this translation.&lt;/p&gt; 
-    &lt;p&gt;⦿ &lt;b&gt;Do not use this translation in analysis threads&lt;/b&gt;, story threads, fanworks, quotebots, etc.&lt;/p&gt;
-  &lt;/span&gt;
-  &lt;p&gt;I would love to get this story properly proofread and posted one day! If you are a translator interested in JP proofreading this story, feel free to DM me at &lt;a href=&quot;https://x.com/citrinesea&quot;&gt;&lt;b&gt;@citrinesea&lt;/b&gt; on X&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;note &quot;&gt;&lt;details class=&quot;cw-dropdown&quot;&gt;
+&lt;details class=&quot;cw-dropdown&quot; id=&quot;partial&quot;&gt;
   &lt;summary&gt;
-    Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+    &lt;b&gt;Partial Translation Disclaimer:&lt;/b&gt; This is a partial translation of the Dynamic Diamond main story.
+  &lt;/summary&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details class=&quot;cw-dropdown&quot; id=&quot;unproofread&quot;&gt;
+  &lt;summary&gt;
+    &lt;b&gt;Unproofread Translations Terms of Service:&lt;/b&gt; This story is not JP proofread. Unproofread translations are under much stricter terms of service, &lt;i&gt;including no screenshots publicly spread&lt;/i&gt;. &lt;b&gt;Click for more information&lt;/b&gt;
   &lt;/summary&gt;
   &lt;p&gt;&lt;/p&gt;
-  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan). The word 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style) comes from 和. During the Meiji Restoration, 和 was central to Japan’s efforts to unify and assimilate new territories under a shared cultural identity. On top of his membership, Ibuki&#39;s active pursuit of 本当の和風 (true Japanese-style) being the reason he pursues AKATSUKI is inappropriate, bearing this in mind.&lt;/p&gt;
-  &lt;p&gt;
-     Additionally, the Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II. This in mind, having Ibuki join the self-proclaimed &quot;war unit&quot; is also inappropriate.&lt;/p&gt; 
-  &lt;p&gt;Read the full-length analysis here: &lt;a href=&quot;https://citrinesea.github.io/translation/contextualizing_shinsei_akatsuki/&quot;&gt;&lt;b&gt;Unpacking Shinsei (新生) AKATSUKI; An Extended Translation Note and Analysis&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/details&gt;&lt;/div&gt;</description>
+  &lt;p&gt;While these translations are as accurate as I can personally make them, I am not comfortable with and do not permit use of the following:&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;Do not take or publicly circulate screenshots&lt;/b&gt; of this translation.&lt;/p&gt; 
+    &lt;p&gt;&lt;b&gt;Do not use this translation in analysis threads&lt;/b&gt;, story threads, fanworks, quotebots, etc.&lt;/p&gt;
+    &lt;p&gt;I would love to get this story properly proofread one day! If you are a translator interested in JP proofreading this story, feel free to email me or DM me at &lt;a href=&quot;https://x.com/citrinesea&quot;&gt;&lt;b&gt;@citrinesea&lt;/b&gt; on Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;/details&gt;
+&lt;br&gt;</description>
       
       
       
@@ -507,23 +523,6 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/meikyou_ryusui_enten_enyou_senpenbanka/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Fujiya Collaboration | Ibuki Taki</title>
-      <link>https://citrinesea.github.io/translation/fujiya_collaboration/</link>
-      <guid>https://citrinesea.github.io/translation/fujiya_collaboration/</guid>
-      <pubDate>Fri, 28 Nov 2025 22:43:49 GMT</pubDate>
-      
-      <description>Ibuki Taki Personal Stories, Fujiya Sweets Collaboration</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/fujiya_collaboration/#disqus_thread</comments>
       
     </item>
     
