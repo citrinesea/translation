@@ -44,6 +44,74 @@
     </item>
     
     <item>
+      <title>constellations</title>
+      <link>https://citrinesea.github.io/translation/other/constellations/</link>
+      <guid>https://citrinesea.github.io/translation/other/constellations/</guid>
+      <pubDate>Wed, 15 Apr 2026 17:02:40 GMT</pubDate>
+      
+      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../../css/esexp.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../../css/18trip.css&quot;&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
+ &lt;div class=&quot;three-wrapper&quot; style=&quot;--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;&quot;&gt;
+    &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;info&quot;&gt;
+            &lt;div class=&quot;info-item characters&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Characters
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+				&lt;a href=&quot;/categories/Enstars/Keito&quot; character=&quot;Keito&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Kuro&quot; character=&quot;Kuro&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Souma&quot; character=&quot;Souma&quot;&gt;&lt;/a&gt;
+                &lt;a href=&quot;/categories/Enstars/Ibuki&quot; character=&quot;Ibuki&quot;&gt;&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item one&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Campaign
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    ONLY YOUR STARS
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item two&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                    Translation
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                    &lt;a href=&quot;https://citrinesea.github.io/translations/&quot; target=&quot;_blank&quot;&gt;citrinesea&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;info-item three&quot;&gt;
+                &lt;div class=&quot;label&quot;&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;value&quot;&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;details class=&quot;cw-dropdown&quot; id=&quot;shinsei&quot;&gt;
+  &lt;summary&gt;
+    &lt;b&gt;Cultural Sensitivity Notice:&lt;/b&gt; Ibuki&#39;s entrance into AKATSUKI has insensitive parallels to the history between Japan and the Ryukyu Islands, specifically the annexation of Ryukyu into Okinawa from 1872-1879 onward. &lt;b&gt;Click for more information&lt;/b&gt;
+  &lt;/summary&gt;
+  &lt;p&gt;&lt;/p&gt;
+  &lt;p&gt;AKATSUKI is a unit embodied by 和 (&lt;i&gt;wa&lt;/i&gt;, lit. harmony, but also a self-designator for Japan and Japaneseness, as well as the concept of &quot;for the collective good&quot;) and 和風 (&lt;i&gt;wafu&lt;/i&gt;, Japanese style). During the Meiji Restoration, the philosophy of 和 was central to Japan’s efforts to assimilate new territories under a shared Japanese cultural identity. Ibuki&#39;s membership in AKATSUKI bears parallels to that assimilation, as the Ryukyu Islands was one of the territories absorbed into Japan. Ibuki&#39;s character motivation of pursuing 本当の和風 (true Japanese-style) contains parallels to assimilation policies within Okinawa after 1879.&lt;/p&gt;
+  &lt;p&gt;Additionally, having Ibuki join the self-proclaimed &quot;war unit&quot; contains parallels to the military relationship between Okinawa and Japan during the early 19th century. The Ryukyu Disposition was driven by military interests, particularly securing Japan&#39;s southern borders from other nations. In Okinawan schools, national pride was linked to serving Japan’s military goals. This had devastating consequences, particularly during the Battle of Okinawa in World War II.&lt;/p&gt; 
+  &lt;p&gt;Read the full-length analysis here: &lt;a href=&quot;https://citrinesea.github.io/translation/contextualizing_shinsei_akatsuki/&quot;&gt;&lt;b&gt;Unpacking Shinsei (新生) AKATSUKI; An Extended Translation Note and Analysis&lt;/b&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/details&gt;
+&lt;br&gt;</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/other/constellations/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
       <title>Network</title>
       <link>https://citrinesea.github.io/translation/network/</link>
       <guid>https://citrinesea.github.io/translation/network/</guid>
@@ -516,25 +584,6 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/Arsene/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Origins in Okinawa</title>
-      <link>https://citrinesea.github.io/translation/origins_in_okinawa/</link>
-      <guid>https://citrinesea.github.io/translation/origins_in_okinawa/</guid>
-      <pubDate>Sat, 20 Dec 2025 23:38:50 GMT</pubDate>
-      
-      <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/translation.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/esexp.css&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;../css/18trip.css&quot;&gt;</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/origins_in_okinawa/#disqus_thread</comments>
       
     </item>
     
