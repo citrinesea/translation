@@ -61,23 +61,6 @@
     </item>
     
     <item>
-      <title>constellations</title>
-      <link>https://citrinesea.github.io/translation/constellation_campaign/</link>
-      <guid>https://citrinesea.github.io/translation/constellation_campaign/</guid>
-      <pubDate>Wed, 15 Apr 2026 17:02:40 GMT</pubDate>
-      
-      <description>Only Your Star Campaign, featuring Keito, Kuro, Souma, Ibuki and Mashu</description>
-      
-      
-      
-      
-      
-      
-      <comments>https://citrinesea.github.io/translation/constellation_campaign/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Network</title>
       <link>https://citrinesea.github.io/translation/network/</link>
       <guid>https://citrinesea.github.io/translation/network/</guid>
@@ -533,6 +516,23 @@ $(document).ready(function() {
       
       
       <comments>https://citrinesea.github.io/translation/sincerity_will_be_rewarded/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Arsène</title>
+      <link>https://citrinesea.github.io/translation/Arsene/</link>
+      <guid>https://citrinesea.github.io/translation/Arsene/</guid>
+      <pubDate>Mon, 22 Dec 2025 19:47:07 GMT</pubDate>
+      
+      <description>After dozing off, Keito awakens to find himself at the funeral hall of his family’s temple. It seems that the people gathered there are holding his funeral...?</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/translation/Arsene/#disqus_thread</comments>
       
     </item>
     

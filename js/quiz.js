@@ -1,0 +1,8 @@
+document.addEventListener("DOMContentLoaded",function(){let t=[{question:"『スカウト! 刑事DANCE』 にて、 「神秘的 で天才肌な高校生」 を演じることになった真 が、アドバイスを求めたアイドルは?",options:["Paris","Madrid","Rome","Berlin"],answer:"Paris"},{question:"(Put your question here)",options:["A","B","C","D"],answer:"A"}],n=0,o=0,i=null,s=document.getElementById("question"),d=document.getElementById("options"),l=document.getElementById("next-btn"),r=document.getElementById("question-counter"),c=t.length;function e(){i=null,l.disabled=!0;var e=t[n];s.textContent=""+e.question,d.innerHTML="",e.options.forEach(n=>{let o=document.createElement("button");o.textContent=n,o.classList.add("option-btn"),o.addEventListener("click",()=>{return e=o,t=n,document.querySelectorAll(".option-btn").forEach(e=>{e.classList.remove("selected")}),e.classList.add("selected"),i=t,void(l.disabled=!1);var e,t}),d.appendChild(o)}),r.textContent=`Question ${n+1} / `+c}e(),l.addEventListener("click",function(){if(i===t[n].answer&&o++,++n<t.length)e();else{let e=document.getElementById("quiz"),t=o/c*100,n="";n=(100==t||80<=t||t,"cool inc haracter message"),e.innerHTML=`
+                <div class="result">
+                    <h2>Quiz Owari</h2>
+                    <p>You scored ${o}/${c}</p>
+                    <p style="font-size: 18px;">${n}</p>
+                    <button class="restart-btn" onclick="location.reload()">Start Over</button>
+                </div>
+            `}})});
